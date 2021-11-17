@@ -1,0 +1,7 @@
+{
+    "name": "scvue-template",
+    "version": "1.0.0",
+    "description": "Template of vue3+vite",
+    "author": "sczheng",
+    "license": "MIT"
+}
