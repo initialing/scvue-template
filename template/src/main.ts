@@ -4,5 +4,4 @@ import router from "./router"
 
 
 
-console.log(router);
 createApp(App).use(router).mount("#app");
