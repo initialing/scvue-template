@@ -1,0 +1,12 @@
+{
+    "prompt": {
+        "router": {
+            "type": "boolean",
+            "label": "use vue-router"
+        }
+    },
+    "filters": {
+        "src/pages/**/*": "router",
+        "src/router.ts": "router"
+    }
+}
