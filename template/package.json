@@ -17,5 +17,10 @@
         "vue-router": "^4.0.12",
         {{/router}}
         "vue-tsc": "^0.29.5"
+    },
+    "devDependencies": {
+        {{#sass}}
+        "sass": "^1.45.2"
+        {{/sass}}
     }
 }
