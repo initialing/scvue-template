@@ -3,6 +3,10 @@
         "router": {
             "type": "boolean",
             "label": "use vue-router"
+        },
+        "sass": {
+            "type": "boolean",
+            "label": "use sass"
         }
     },
     "filters": {
